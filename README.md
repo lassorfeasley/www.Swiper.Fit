@@ -1,5 +1,14 @@
 # Swiper
 
+![Swiper landing page](docs/screenshot.png)
+
+An iPhone and Apple Watch workout app where trainers plan and clients log every set with a swipe. This repo contains the web app and its serverless API.
+
+**Live:** [swiper.fit](https://www.swiper.fit)  
+**Stack:** React, Vite, Tailwind, TanStack Query, Framer Motion, Supabase, Vercel Functions, Resend
+
+---
+
 ## Local Development Setup
 
 ### Running the Development Server
